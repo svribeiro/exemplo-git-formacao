@@ -1,4 +1,4 @@
 echo<?php
-echo "Hello World resolve bug";
+    echo "Hello World";
 
-?>
+    ?>
